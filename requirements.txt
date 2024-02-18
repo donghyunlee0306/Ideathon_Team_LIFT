@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+python-dotenv
+requests
+openai
+dart-fss
+pymysql
+mysql-connector-python
+OpenDartReader

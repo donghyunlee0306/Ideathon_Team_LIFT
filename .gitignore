@@ -1,0 +1,9 @@
+.env
+
+*.pyc
+data/
+.conda/
+__pycache__/
+Dockerfile
+test.py
+docs_cache/
